@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798681542820",
+    "project_id": "mcc-course-71fad",
+    "storage_bucket": "mcc-course-71fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798681542820:android:e95726a5b6bfec17ce7631",
+        "android_client_info": {
+          "package_name": "com.example.mcccourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798681542820-vm6t15pii5vkp6jfmo6v5iv5dehni2mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNYXOqIxNAOStGiGe0RlfFisYzd8QAfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798681542820-vm6t15pii5vkp6jfmo6v5iv5dehni2mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
